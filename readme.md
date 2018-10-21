@@ -23,6 +23,7 @@ git clone https://github.com/Mathias88/lista-de-elementos.git
 ```
 - Instalar dependencias
 ```
+cd lista-de-elementos
 composer install
 npm install
 npm run prod
